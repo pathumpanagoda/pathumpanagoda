@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">----------------------------------------------------------------------------------------------------------------------------------</p>
+---
 
 ###
 
@@ -59,7 +59,7 @@
 </div>
 
 ###
-
+---
 <h3 align="center">Social :</h3>
 
 ###
@@ -82,16 +82,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=pathumpanagoda" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31t4mwxb7xsryi2ropvebieaaqsm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
