@@ -18,6 +18,22 @@
 
 <p align="left">📚 Student at SLIIT University <br>🎓 Undergraduate in Software Engineering<br>🌱 I'm currently learning Java<br>✨ I am looking to collaborate on any mobile app idea <br>📫 Feel free to reach out: pathumpanagoda@gmail.com<br>🔍 Let's code the future together! 🚀</p>
 
+
+</table>
+<h2 align="left">My Statistics:</h2>
+
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=PubuthPrajeshwara&theme=dark&show_icons=true&count_private=true" />
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PrasadSenavirathna&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
+  </td>
+</tr>
+</table>
+
 ###
 
 ---
