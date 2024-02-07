@@ -22,16 +22,16 @@
 
 
 </table>
-<h2 align="left">My Statistics:</h2>
+<h2 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">My Statistics: </h2>
 
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pathumpanagoda&theme=dark&show_icons=true&count_private=true" />
+  <img  width= "500" height= "200" align="center"  src="https://github-readme-stats.vercel.app/api?username=pathumpanagoda&theme=dark&show_icons=true&count_private=true" />
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pathumpanagoda&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
+ <img width= "300" height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathumpanagoda&theme=dark&layout=compact" />
   </td>
 </tr>
 </table>
