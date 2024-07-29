@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I'am Pathum Panagoda, IT STUDENT | I Love exploring new technologies and develop cool web sites .</p>
+<p align="center">I'am Pathum Panagoda, SE STUDENT | I Love exploring new technologies and develop cool web sites .</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 Student at SLIIT University <br>🎓 Undergraduate in Software Engineering<br>🌱 I'm currently learning Java<br>✨ I am looking to collaborate on any mobile app idea <br>📫 Feel free to reach out: pathumpanagoda@gmail.com<br>🔍 Let's code the future together! 🚀</p>
+<p align="left">📚 Student at SLIIT University <br>🎓 Undergraduate in Software Engineering<br>🌱 I'm currently learning python<br>✨ I am looking to collaborate on any mobile app idea <br>📫 Feel free to reach out: pathumpanagoda@gmail.com<br>🔍 Let's code the future together! 🚀</p>
 
 
 </table>
